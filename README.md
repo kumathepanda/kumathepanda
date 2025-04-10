@@ -37,7 +37,7 @@
 &emsp;Content-based movie recommender  
 
 🔹 [**MERN-AI Platform (WIP)**](https://github.com/kumathepanda/mern-ai-platform)  
-&emsp;Full-stack AI platform for ML model deployment (*work in progress*)
-
+&emsp;A full-stack AI platform designed for solving real-world problems using **Retrieval-Augmented Generation (RAG) agents**.  
+&emsp;Built with the MERN stack, this platform aims to bring intelligent, context-aware automation to end users.
 ---
 
