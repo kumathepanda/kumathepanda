@@ -1,7 +1,10 @@
 # 👋 Hey there! I'm Kumathepanda
 
 
-<img src="https://media.tenor.com/T6u-DSV6t9cAAAAC/whos-he-po.gif" width="300" />
+<p align="center">
+  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="300" />
+</p>
+
 
 
 🎓 Passionate about Data Science & Machine Learning  
