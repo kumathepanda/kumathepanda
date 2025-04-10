@@ -1,6 +1,5 @@
 # 👋 Hey there! I'm Kumathepanda
 
-
 🎓 Passionate about Data Science & Machine Learning  
 💻 Building real-world projects with Jupyter, Python, and modern ML tools  
 🧠 Continuously learning — from regression models to transformers
@@ -17,13 +16,13 @@
 - 🤖 **ML:** Scikit-learn, XGBoost, LightGBM, TensorFlow (beginner)  
 - 🔍 **EDA & Feature Engineering:** Pipelines, Outlier detection, Feature selection  
 - 📓 **Notebook Tools:** Jupyter Notebook  
-- 🌐 **Web (in progress):** Javascript,TypeScript, React, Express, MongoDB (MERN stack)
+- 🌐 **Web (in progress):** JavaScript, TypeScript, React, Express, MongoDB (MERN stack)
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 [**Absenteesim Neural Network**](https://github.com/kumathepanda/Absenteesim_Project_Neural_Network)  
+🔹 [**Absenteeism Neural Network**](https://github.com/kumathepanda/Absenteesim_Project_Neural_Network)  
 &emsp;Predict employee absenteeism using deep learning  
 
 🔹 [**CheatSheet-for-DataScience**](https://github.com/kumathepanda/CheatSheet-for-DataScience)  
@@ -39,5 +38,3 @@
 🔹 [**MERN-AI Platform (WIP)**](https://github.com/kumathepanda/mern-ai-platform)  
 &emsp;A full-stack AI platform designed for solving real-world problems using **Retrieval-Augmented Generation (RAG) agents**.  
 &emsp;Built with the MERN stack, this platform aims to bring intelligent, context-aware automation to end users.
----
-
