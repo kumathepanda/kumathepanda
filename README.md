@@ -1,18 +1,13 @@
 # 👋 Hey there! I'm Kumathepanda
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="300" />
-</p>
-
-
-
-
-
-
 🎓 Passionate about Data Science & Machine Learning  
 💻 Building real-world projects with Jupyter, Python, and modern ML tools  
 🧠 Continuously learning — from regression models to transformers
+
+<p align="center">
+  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="300" />
+</p>
 
 ---
 
