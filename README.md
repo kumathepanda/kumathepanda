@@ -12,7 +12,7 @@
 - 🤖 **ML:** Scikit-learn, XGBoost, LightGBM, TensorFlow (beginner)  
 - 🔍 **EDA & Feature Engineering:** Pipelines, Outlier detection, Feature selection  
 - 📓 **Notebook Tools:** Jupyter Notebook  
-- 🌐 **Web (in progress):** TypeScript, React, Express, MongoDB (MERN stack)
+- 🌐 **Web (in progress):** Javascript,TypeScript, React, Express, MongoDB (MERN stack)
 
 ---
 
