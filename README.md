@@ -1,5 +1,9 @@
 # 👋 Hey there! I'm Kumathepanda
 
+
+<img src="https://media.tenor.com/T6u-DSV6t9cAAAAC/whos-he-po.gif" width="300" />
+
+
 🎓 Passionate about Data Science & Machine Learning  
 💻 Building real-world projects with Jupyter, Python, and modern ML tools  
 🧠 Continuously learning — from regression models to transformers
