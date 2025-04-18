@@ -30,7 +30,6 @@
 
 🔹 [**Machine Learning Journey - Part 1**](https://github.com/kumathepanda/Machine-Learning_Journey-part1)  
 🔹 [**Machine Learning Journey - Part 2**](https://github.com/kumathepanda/Machine-Learning_Journey-Part2)  
-🔹 [**Learnt-From->CampusX(for MachineLearning)**](https://youtu.be/ZftI2fEz0Fw?si=jms7HxQl4DSyFKGm)  
 &emsp;100 days of hands-on machine learning practice  
 
 🔹 [**Movie Recommender System**](https://github.com/kumathepanda/movie-recommender-system)  
@@ -39,3 +38,8 @@
 🔹 [**MERN-AI Platform (WIP)**](https://github.com/kumathepanda/mern-ai-platform)  
 &emsp;A full-stack AI platform designed for solving real-world problems using **Retrieval-Augmented Generation (RAG) agents**.  
 &emsp;Built with the MERN stack, this platform aims to bring intelligent, context-aware automation to end users.
+
+
+## 📝 Resources Used For Learning:
+🔹 [**Learnt-From->CampusX(for MachineLearning)**](https://youtu.be/ZftI2fEz0Fw?si=jms7HxQl4DSyFKGm)
+  &esmp;CampusX yt-channel by Nitish sir great resource for learning ML
