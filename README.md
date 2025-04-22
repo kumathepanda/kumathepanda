@@ -32,7 +32,7 @@
 🔹 [**Machine Learning Journey - Part 2**](https://github.com/kumathepanda/Machine-Learning_Journey-Part2)  
 &emsp;100 days of hands-on machine learning practice  
 
-🔹 [**Movie Recommender System**](https://github.com/kumathepanda/movie-recommender-system)  
+🔹 [**Movie Recommender System**]((https://github.com/kumathepanda/Movie-recommender.git))  
 &emsp;Content-based movie recommender  
 
 🔹 [**MERN-AI Platform (WIP)**](https://github.com/kumathepanda/mern-ai-platform)  
