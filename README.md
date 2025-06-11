@@ -13,7 +13,7 @@
 ## 🛠️ Tech I Work With
 
 - 📊 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-- 🤖 **ML:** Scikit-learn, XGBoost, LightGBM, TensorFlow (beginner)  
+- 🤖 **ML:** Scikit-learn, XGBoost, LightGBM, TensorFlow ~(beginner)~ (intermediate) 
 - 🔍 **EDA & Feature Engineering:** Pipelines, Outlier detection, Feature selection  
 - 📓 **Notebook Tools:** Jupyter Notebook  
 - 🌐 **Web (in progress):** JavaScript, TypeScript, React, Express, MongoDB (MERN stack)
