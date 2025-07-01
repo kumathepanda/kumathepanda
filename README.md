@@ -1,45 +1,77 @@
-# 👋 Hey there! I'm Kumathepanda
-
-🎓 Passionate about Data Science & Machine Learning  
-💻 Building real-world projects with Jupyter, Python, and modern ML tools  
-🧠 Continuously learning — from regression models to transformers
+<h1 align="center">👋 Hey, I'm Parth (aka kumathepanda)</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/EPcvhM28ER9XW/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/nntN4XMNwTzZ6/giphy.gif" width="300" />
+</p>
+
+
+<p align="center">
+  <b>🚀 Data Scientist | 🤖 ML Engineer | 📊 Data Visualizer</b><br>
+  Passionate about solving real-world problems using machine learning, deep learning & data.
 </p>
 
 ---
 
-## 🛠️ Tech I Work With
+## 📊 Tech Stack & Tools
 
-- 📊 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-- 🤖 **ML:** Scikit-learn, XGBoost, LightGBM, TensorFlow ~(beginner)~ (intermediate) 
-- 🔍 **EDA & Feature Engineering:** Pipelines, Outlier detection, Feature selection  
-- 📓 **Notebook Tools:** Jupyter Notebook  
-- 🌐 **Web (in progress):** JavaScript, TypeScript, React, Express, MongoDB (MERN stack)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-5A5AAD?style=for-the-badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 [**Absenteeism Neural Network**](https://github.com/kumathepanda/Absenteesim_Project_Neural_Network)  
-&emsp;Predict employee absenteeism using deep learning  
+🔹 [**Absenteeism Module**](https://github.com/kumathepanda/Absenteeism_Module)  
+&emsp;📊 A complete module to preprocess, train, and evaluate models to predict employee absenteeism
 
-🔹 [**CheatSheet-for-DataScience**](https://github.com/kumathepanda/CheatSheet-for-DataScience)  
-&emsp;Quick reference for essential data science and ML topics  
+🔹 [**News Verifier – Fake News Classifier**](https://github.com/kumathepanda/News-Verifier)  
+&emsp;📰 Classify fake and real news with model interpretability (SGDClassifier + human-in-the-loop)
 
-🔹 [**Machine Learning Journey - Part 1**](https://github.com/kumathepanda/Machine-Learning_Journey-part1)  
-🔹 [**Machine Learning Journey - Part 2**](https://github.com/kumathepanda/Machine-Learning_Journey-Part2)  
-&emsp;100 days of hands-on machine learning practice  
+🔹 [**Data Science CheatSheet**](https://github.com/kumathepanda/CheatSheet-for-DataScience)  
+&emsp;📚 Curated ML & DS resources — quick reference for key topics  
 
-🔹 [**Movie Recommender System**](https://github.com/kumathepanda/Movie-recommender.git)  
-&emsp;Content-based movie recommender  
+🔹 [**ML Journey – Part 1**](https://github.com/kumathepanda/Machine-Learning_Journey-part1)  
+&emsp;🔁 Hands-on journey through core ML algorithms, real datasets, and insights
 
-🔹 [**MERN-AI Platform (WIP)**](https://github.com/kumathepanda/mern-ai-platform)  
-&emsp;A full-stack AI platform designed for solving real-world problems using **Retrieval-Augmented Generation (RAG) agents**.  
-&emsp;Built with the MERN stack, this platform aims to bring intelligent, context-aware automation to end users.
+🔹 [**ML Journey – Part 2**](https://github.com/kumathepanda/Machine-Learning_Journey-Part2)  
+&emsp;🔬 Deeper dive into modeling, metrics, and more structured projects
 
+🔹 [**Movie Recommender**](https://github.com/kumathepanda/Movie-recommender.git)  
+&emsp;🎬 A content-based recommendation engine using cosine similarity  
 
-## 📝 Resources Used For Learning:
-🔹 [**Learnt-From->CampusX(for MachineLearning)**](https://youtu.be/ZftI2fEz0Fw?si=jms7HxQl4DSyFKGm)
-&emsp;CampusX yt-channel by Nitish sir great resource for learning ML.
+---
+
+## 📚 Learning Resources I Recommend/Used
+
+- 🧪 [CampusX (ML Course)](https://youtu.be/ZftI2fEz0Fw?si=jms7HxQl4DSyFKGm) – Amazing structured ML content by Nitish Sir  
+- 📊 Kaggle competitions, GitHub exploration, and building projects help me grow every day!
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-ramdeo-1328b926a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ramdeoparth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ramdeoparth@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/parth_hehe">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://github.com/kumathepanda">
+    <img src="https://img.shields.io/badge/GitHub-kumathepanda-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
